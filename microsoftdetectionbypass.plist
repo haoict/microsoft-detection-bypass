@@ -1,0 +1,16 @@
+{
+  Filter = {
+    Bundles = (
+      "com.microsoft.Office.Outlook",
+      "com.microsoft.skype.teams",
+      "com.microsoft.Office.Word",
+      "com.microsoft.Office.Excel",
+      "com.microsoft.Office.Powerpoint",
+      "com.microsoft.officemobile",
+      "com.microsoft.onenote",
+      "com.microsoft.msapps",
+      "com.microsoft.skydrive",
+      "com.microsoft.lync2013.iphone"
+    );
+  };
+}

@@ -1,0 +1,20 @@
+Package: com.haoict.microsoftdetectionbypass
+Name: Microsoft Detection Bypass
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Free Tweak for Microsoft Apps Detection Bypass
+ Free Microsoft Apps Detection Bypass
+ Change log: https://github.com/haoict/microsoft-detection-bypass/releases
+ . 
+ Features:
+ - Bypass Jailbreak Detection
+ - Support iOS 10-14 & latest Microsoft Apps app version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks
