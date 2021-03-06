@@ -1,15 +1,29 @@
 Package: com.haoict.microsoftdetectionbypass
 Name: Microsoft Detection Bypass
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Free Tweak for Microsoft Apps Detection Bypass
  Free Microsoft Apps Detection Bypass
  Change log: https://github.com/haoict/microsoft-detection-bypass/releases
  . 
  Features:
- - Bypass Jailbreak Detection
- - Support iOS 10-14 & latest Microsoft Apps app version
+ - Bypass Jailbreak Detection for Microsoft Enterprise Apps:
+  + Outlook
+  + Teams
+  + Word
+  + Excel
+  + PowerPoint
+  + Office 365
+  + OneNote
+  + Power Apps
+  + OneDrive
+  + OneNote
+  + Skype for Business
+  + Edge
+  + SharePoint
+  + Company Portal
+ - Support iOS 12-14
  . 
  I work very hard to make good, free and open source tweaks for everyone
  If you want to support, you can buy me a coffee at https://www.paypal.me/haoict

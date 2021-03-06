@@ -10,7 +10,10 @@
       "com.microsoft.onenote",
       "com.microsoft.msapps",
       "com.microsoft.skydrive",
-      "com.microsoft.lync2013.iphone"
+      "com.microsoft.lync2013.iphone",
+      "com.microsoft.msedge",
+      "com.microsoft.sharepoint",
+      "com.microsoft.CompanyPortal"
     );
   };
 }
