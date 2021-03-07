@@ -2,6 +2,10 @@
 
 Tweak for Microsoft Microsoft Apps Detection Bypass
 
+```bash
+NOTE: This tweak is not open source, this Github repo is just for issue report
+```
+
 ## Cydia Repo
 
 [https://haoict.github.io/cydia](https://haoict.github.io/cydia)
