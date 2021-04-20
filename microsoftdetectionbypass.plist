@@ -13,6 +13,7 @@
       "com.microsoft.lync2013.iphone",
       "com.microsoft.msedge",
       "com.microsoft.sharepoint",
+      "com.microsoft.to-do",
       "com.microsoft.CompanyPortal"
     );
   };
