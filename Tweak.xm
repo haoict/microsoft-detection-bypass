@@ -12,7 +12,7 @@ static void reloadPrefs() {
 }
 
 %group Enable
-// 
+//
 %end
 
 %ctor {

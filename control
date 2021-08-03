@@ -1,7 +1,7 @@
 Package: com.haoict.microsoftdetectionbypass
 Name: Microsoft Detection Bypass
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Description: Free Tweak for Microsoft Apps Detection Bypass
  Free Microsoft Apps Detection Bypass
@@ -24,6 +24,7 @@ Description: Free Tweak for Microsoft Apps Detection Bypass
   + SharePoint
   + To Do
   + Company Portal
+  + Yammer
  - Support iOS 12-14
  . 
  I work very hard to make good, free and open source tweaks for everyone

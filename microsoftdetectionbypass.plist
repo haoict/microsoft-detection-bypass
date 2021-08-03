@@ -14,7 +14,8 @@
       "com.microsoft.msedge",
       "com.microsoft.sharepoint",
       "com.microsoft.to-do",
-      "com.microsoft.CompanyPortal"
+      "com.microsoft.CompanyPortal",
+      "wefwef"
     );
   };
 }
