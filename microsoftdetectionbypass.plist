@@ -15,7 +15,8 @@
       "com.microsoft.sharepoint",
       "com.microsoft.to-do",
       "com.microsoft.CompanyPortal",
-      "wefwef"
+      "wefwef",
+      "com.microsoft.powerbimobile"
     );
   };
 }
