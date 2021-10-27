@@ -1,7 +1,7 @@
 Package: com.haoict.microsoftdetectionbypass
 Name: Microsoft Detection Bypass
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
-Version: 1.2.0
+Version: 1.3.0
 Architecture: iphoneos-arm
 Description: Free Tweak for Microsoft Apps Detection Bypass
  Free Microsoft Apps Detection Bypass
